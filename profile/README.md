@@ -10,4 +10,4 @@ You can contribute to our repos by fixing the issues, creating issues responsibl
 
  **Don't Forget** to Subscribe to our [Newsletter](https://bosc.org.np/#contact) to get updates on upcoming events conducted by BOSC. 
  
- Links: [Telegram](https://t.me/+CjJuVncewyExMTNl), [Facebook](https://facebook.com/birendraopensourceclub), [GitHub](https://github.com/b0sc), [LinkedIn](https://linkedin.com/company/b0sc), [Discord](https://discord.gg/3gjuqt64y8).
+ Links: [Telegram](https://t.me/bosc_official), [Facebook](https://facebook.com/birendraopensourceclub), [GitHub](https://github.com/b0sc), [LinkedIn](https://linkedin.com/company/b0sc), [Discord](https://discord.gg/3gjuqt64y8).
